@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E502FC03088349E0092F3DE /* CLAUDE.md in Resources */ = {isa = PBXBuildFile; fileRef = 3E502FBF3088349E0092F3DE /* CLAUDE.md */; };
 		3E887F833087DA8A004F2A27 /* AGENTS.md in Resources */ = {isa = PBXBuildFile; fileRef = 3E887F823087DA8A004F2A27 /* AGENTS.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		3E361F0330851A3C00B55EF8 /* YouAreAwesome.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YouAreAwesome.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E502FBF3088349E0092F3DE /* CLAUDE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CLAUDE.md; sourceTree = "<group>"; };
 		3E887F823087DA8A004F2A27 /* AGENTS.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = AGENTS.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,6 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				3E887F823087DA8A004F2A27 /* AGENTS.md */,
+				3E502FBF3088349E0092F3DE /* CLAUDE.md */,
 				3E361F0530851A3C00B55EF8 /* YouAreAwesome */,
 				3E361F0430851A3C00B55EF8 /* Products */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			files = (
 				3E887F833087DA8A004F2A27 /* AGENTS.md in Resources */,
+				3E502FC03088349E0092F3DE /* CLAUDE.md in Resources */,
 			);
 		};
 /* End PBXResourcesBuildPhase section */
